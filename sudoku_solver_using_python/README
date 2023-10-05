@@ -1,0 +1,4 @@
+First check if the python simulation platform has csv and sys library from python3.
+
+Run the following command to run the sudoku solver
+        python3 sudoku_solver.py sudoku1.txt
