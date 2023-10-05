@@ -1,3 +1,4 @@
 # Sudoku_Solver
-Sudoku solver using Python 3
-ANother directory was for Sudoku solver using Z3 SAT solver.
+Sudoku solver using Python 3.
+
+Another directory was for Sudoku solver using Z3 SAT solver.
